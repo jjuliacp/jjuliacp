@@ -8,7 +8,7 @@
 
   - **Descripción del Proyecto:**
   - En Movie Challenge with Framework, estoy finalizando el desarrollo de una página web destinada a visualizar, filtrar y ordenar el catálogo de películas de The Movie Database API V3. Esta página puede servir como un catálogo de películas general.
-  - En Burger Quee Api- Client se construirá una interfaz web usando el framework React para luego integrarla con una API.
+  - En Burger Queen Api- Client se construirá una interfaz web usando el framework React para luego integrarla con una API.
 - **Tecnologías Utilizadas:**
   - React : es el framework que se utiliza.
   - TypeScript: Programación del lado del servidor para la lógica de negocio con tipado estático.
@@ -19,7 +19,8 @@
      - Git: Control de versiones para colaboración eficiente.
  
 - **Estado del Proyecto:**
-  - Estoy finalizando el proyecto, haciendo testing de los componentes y optimizando.
+  - Estoy finalizando el proyecto, haciendo testing de los componentes y optimizando en Movie Challenge.
+  - Y para Burger queen Api-Client estoy iniciando hacer componentes.
 
 ## 🌱 Actualmente Estoy Aprendiendo
 - **Mejoras en el Rendimiento Web:** Implementando técnicas de optimización para acelerar la carga de páginas y mejorar la experiencia del usuario.
