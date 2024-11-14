@@ -4,7 +4,7 @@
 ## 🔭 Proyectos Actuales
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXozNHFlaGFtNnZob3Z5YWs2bnlyMzl4c2Z4MnpvcGF1cWh2enRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Divertido GIF de Desarrollo" width="250" align="right"   >
 
-- Estoy trabajando proyecto llamado Movie Challenge with Framework y Burger Queen Api-client como parte de mi formación en Laboratoria.
+- Estoy trabajando proyecto llamado Movie Challenge with Framework y Burger Queen Api-client.
 
   - **Descripción del Proyecto:**
   - En Movie Challenge with Framework, estoy finalizando el desarrollo de una página web destinada a visualizar, filtrar y ordenar el catálogo de películas de The Movie Database API V3. Esta página puede servir como un catálogo de películas general.
