@@ -1,44 +1,32 @@
 # ¡Hola! 👋 
-¡Bienvenida a mi perfil de GitHub! Soy Julia, un apasionada desarrolladora Front-end Jr. 
+¡Bienvenid@ a mi perfil de GitHub! Soy Julia, una apasionada desarrolladora Front-end Jr. 🚀
 
 ## 🔭 Proyectos Actuales
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXozNHFlaGFtNnZob3Z5YWs2bnlyMzl4c2Z4MnpvcGF1cWh2enRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Divertido GIF de Desarrollo" width="250" align="right"   >
+Actualmente, estoy desarrollando proyectos personales y explorando nuevas tecnologías para seguir mejorando mis habilidades en React y el ecosistema Front-end. Me encanta aprender y experimentar con diferentes herramientas para crear experiencias web óptimas y accesibles.
 
-- Estoy trabajando proyecto llamado Movie Challenge with Framework y Burger Queen Api-client.
+ ## 🛠 Tecnologías y Herramientas
+ <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b76115mm3x0adjjfrd6fujdc1c1p96hreuk4t0ypj4eq5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Divertido GIF de Desarrollo" width="350"    align="right" >
 
-  - **Descripción del Proyecto:**
-  - En Movie Challenge with Framework, estoy finalizando el desarrollo de una página web destinada a visualizar, filtrar y ordenar el catálogo de películas de The Movie Database API V3. Esta página puede servir como un catálogo de películas general.
-  - En Burger Queen Api- Client se construirá una interfaz web usando el framework React para luego integrarla con una API.
-- **Tecnologías Utilizadas:**
-  - React : es el framework que se utiliza.
-  - TypeScript: Programación del lado del servidor para la lógica de negocio con tipado estático.
-  - Vite: herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida y ágil para proyectos web modernos.
-  - Herramientas utilizadas para Testing: jest, babel. 
- 
-     - **Herramientas de Desarrollo y Control de Versiones:**
-     - Git: Control de versiones para colaboración eficiente.
- 
-- **Estado del Proyecto:**
-  - Estoy finalizando el proyecto, haciendo testing de los componentes y optimizando en Movie Challenge.
-  - Y para Burger queen Api-Client estoy iniciando hacer componentes.
+ 💻 Front-end:
+ - React ⚛️ - Desarrollo de interfaces dinámicas.
+ - TypeScript 📝 - Código más seguro y mantenible.
+ - Vite ⚡ - Entorno de desarrollo rápido.
+ - Testing 🧪 - Explorando Jest y Babel.
+ - Git & GitHub 🖥️ - Control de versiones y colaboración.
 
-## 🌱 Actualmente Estoy Aprendiendo
-- **Mejoras en el Rendimiento Web:** Implementando técnicas de optimización para acelerar la carga de páginas y mejorar la experiencia del usuario.
+ 💻 Back-end:
+ - Node.js 🚀 - Desarrollo de APIs eficientes.
+ - Express.js 🔥 - Creación de servicios RESTful.
+ - PostgreSQL / SQL 🗄 - Gestión de bases de datos.
+ - Pruebas con Jest 🧪 - Asegurando calidad en el código.
+   
+## 🌱 Siempre Aprendiendo
+- **Optimización y Rendimiento Web:** Implementando técnicas de optimización para acelerar la carga de páginas y mejorar la experiencia del usuario.
 - **Testing Front-end:** Familiarizándome con prácticas de pruebas unitarias y de integración para garantizar la calidad y fiabilidad del código.
-- **Diseño Responsivo Avanzado:** Profundizando en técnicas avanzadas de CSS.
+- **Arquitectura de software y patrones de diseño 🏗** 
  
-
-## 👯 Busco Colaborar En
-
-Estoy buscando colaborar en proyectos Front-end y Back-end innovadores y creativos. Si tienes alguna idea o proyecto, ¡me encantaría contribuir!
-
-## 💬 Pregúntame Sobre
-- **Desarrollo Front-end:** Desde la estructuración semántica con HTML hasta la interactividad con JavaScript, estoy aquí para discutir sobre el desarrollo de interfaces atractivas y funcionales.
-- **Desarrollo Back-end**: Construcción de APIs, manejo de bases de datos y optimización de servidores con Node.js y Express.
-- **Mejores Prácticas:** Si tienes preguntas sobre las mejores prácticas en el desarrollo front-end, desde organización de código hasta eficiencia y rendimiento, estoy dispuesta a compartir consejos y experiencias.
-- **Aprendizaje en Comunidad:** Como junior, estoy descubriendo el valor de la colaboración y el aprendizaje en comunidad. Puedo hablar sobre cómo encontrar recursos, participar en eventos y aprovechar la comunidad para mejorar tus habilidades.
-- 
-
+## 🚀 En Búsqueda de Nuevas Oportunidades
+Estoy en constante aprendizaje y crecimiento, con ganas de aportar en proyectos interesantes. Si tienes una oportunidad o simplemente quieres conectar, ¡hablemos! 💬
 
 ## 📫 Cómo Contactarme
 
