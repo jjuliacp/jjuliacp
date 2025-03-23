@@ -31,7 +31,7 @@ Estoy en constante aprendizaje y crecimiento, con ganas de aportar en proyectos 
 ## 📫 Cómo Contactarme
 
 - Correo Electrónico: juliacruz2996@gmail.com
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/juliacp/)
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/juliacp/)
 
 
 ## 😄 Pronombres
