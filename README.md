@@ -1,45 +1,70 @@
-# ¡Hola! 👋 
-¡Bienvenid@ a mi perfil de GitHub! Soy Julia, una apasionada desarrolladora Front-end Jr. 🚀
+# Hi there! 👋 I'm Julia Cruz
 
-## 🔭 Proyectos Actuales
-Actualmente, estoy desarrollando proyectos personales y explorando nuevas tecnologías para seguir mejorando mis habilidades en React y el ecosistema Front-end. Me encanta aprender y experimentar con diferentes herramientas para crear experiencias web óptimas y accesibles.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTRkbXBrODV4aWd1bHF1MzFsbDhtZzczcnpuaGp2cWQ2YndqZ29nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GQty4dYXeVkOeMzqVx/giphy.gif"/>
 
- ## 🛠 Tecnologías y Herramientas
- <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b76115mm3x0adjjfrd6fujdc1c1p96hreuk4t0ypj4eq5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Divertido GIF de Desarrollo" width="350"    align="right" >
+### Front-end Developer · UX/UI Designer · Psychology Graduate
 
- 💻 Front-end:
- - React ⚛️ - Desarrollo de interfaces dinámicas.
- - TypeScript 📝 - Código más seguro y mantenible.
- - Vite ⚡ - Entorno de desarrollo rápido.
- - Testing 🧪 - Explorando Jest y Babel.
- - Git & GitHub 🖥️ - Control de versiones y colaboración.
+> Building responsive, accessible and user-focused web experiences. 🤖✨
 
- 💻 Back-end:
- - Node.js 🚀 - Desarrollo de APIs eficientes.
- - Express.js 🔥 - Creación de servicios RESTful.
- - PostgreSQL / SQL 🗄 - Gestión de bases de datos.
- - Pruebas con Jest 🧪 - Asegurando calidad en el código.
-   
-## 🌱 Siempre Aprendiendo
-- **Optimización y Rendimiento Web:** Implementando técnicas de optimización para acelerar la carga de páginas y mejorar la experiencia del usuario.
-- **Testing Front-end:** Familiarizándome con prácticas de pruebas unitarias y de integración para garantizar la calidad y fiabilidad del código.
-- **Arquitectura de software y patrones de diseño 🏗** 
- 
-## 🚀 En Búsqueda de Nuevas Oportunidades
-Estoy en constante aprendizaje y crecimiento, con ganas de aportar en proyectos interesantes. Si tienes una oportunidad o simplemente quieres conectar, ¡hablemos! 💬
+## 👩🏻‍💻 About Me
 
-## 📫 Cómo Contactarme
+I'm a Front-end Developer from Peru with a background in Psychology. I enjoy building interfaces that are simple, responsive, and easy to use.
 
-- Correo Electrónico: juliacruz2996@gmail.com
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/juliacp/)
+Currently, I work on real projects while continuing to improve my skills in the React ecosystem. I also use AI as part of my daily workflow to explore ideas, speed up development, improve code quality, and keep learning every day.
 
+I believe great products come from combining curiosity, creativity, and continuous learning.
 
-## 😄 Pronombres
+---
+ ## 💻 What I work with
 
-Ella / her
+**Front-end**
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Tailwind CSS
+- Vite
 
-## ⚡ Dato Curioso
+**Back-end**
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Prisma
 
-Disfruto explorando nuevas tecnologías y siempre estoy en búsqueda de nuevos retos.
+**Tools**
+- Git & GitHub
+- Figma
+- Postman
+- VS Code
+- AI-assisted development 🤖
 
-¡Gracias por visitar mi perfil! 🚀
+---
+
+## 🌱 Currently Exploring
+
+- ⚛️ Advanced React patterns
+- 🏗️ Software architecture & design patterns
+- 🚀 Building backends with NestJS
+- ⚡ Web performance & optimization
+- 🧪 Testing and code quality
+- ♿ Accessibility (a11y)
+- 🤖 AI tools to improve my development workflow
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email**  
+**juliacruz2996@gmail.com**
+
+💼 **LinkedIn**  
+https://linkedin.com/in/juliacp
+
+---
+
+<p align="center">
+
+✨ *Always learning, always building.*
+
+</p>
